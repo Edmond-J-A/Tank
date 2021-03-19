@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Graphics/BackGround.jpg</file>
+        <file>Graphics/Bonus.bmp</file>
+        <file>Graphics/Born.bmp</file>
+        <file>Graphics/Bullect.bmp</file>
+        <file>Graphics/Enemys.bmp</file>
+        <file>Graphics/Explode1.bmp</file>
+        <file>Graphics/Explode2.bmp</file>
+        <file>Graphics/Map.png</file>
+        <file>Graphics/Player1.bmp</file>
+        <file>Graphics/Player2.bmp</file>
+        <file>Graphics/Shield.bmp</file>
+        <file>Graphics/UIGameOver.bmp</file>
+        <file>Graphics/win.png</file>
+    </qresource>
+</RCC>
